@@ -1,7 +1,7 @@
 <?php
 
-	namespace developer-star\shopify;
-	use developer-star\http;
+	namespace phpish\shopify;
+	use phpish\http;
 
 
 	function install_url($shop, $api_key)
